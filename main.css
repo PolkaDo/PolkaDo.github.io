@@ -71,10 +71,10 @@
       text-decoration: underline;
    }
    .active {
-      background-color: #99e6d3;
+      text-decoration: underline;
    }
    #a1:hover {
-      background-color: none;
+      text-decoration: none;
    }
    article {
       height: 84vh;
