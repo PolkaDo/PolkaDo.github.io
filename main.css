@@ -73,8 +73,8 @@
    .active {
       background-color: #99e6d3;
    }
-   #a1 {
-      color: #4b4235;
+   #a1:hover {
+      background-color: #adebdc;
    }
    article {
       height: 84vh;
