@@ -73,6 +73,9 @@
    .active {
       background-color: #99e6d3;
    }
+   #a1 {
+      color: #4b4235;
+   }
    article {
       height: 84vh;
       background-color: #f9f2ec;
