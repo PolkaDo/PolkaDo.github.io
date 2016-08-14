@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Hinnasto</title>
+  <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" type="text/css" href="/main.css">
+  <link rel="icon" type="image/ico" href="/favicon.png"/>
+  </head>
+  <body>
+   <div class="container">
+   <header>
+    <h1><a href="https://polkado.github.io" id="a1">PolkaDo</a></h1>
+   </header>
+   <nav>
+    <ul id="nav">
+     <li><a href="/hinnasto">Hinnasto</a></li>
+     <li><a href="/portfolio">Portfolio</a></li>
+     <li><a href="/about">About</a></li>
+    </ul>
+   </nav>
+   <article>
+    <h2>Hinnasto</h2>
+   </article>
+   <footer>2016 © Sanni Ahlgren</footer>
+   </div>
+  </body>
+ </html>
