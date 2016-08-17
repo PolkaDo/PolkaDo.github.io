@@ -35,7 +35,7 @@
    header {
       padding: 5px;
       color: #4b4235;
-      background-color: #adebdc;
+      background: url(taustap.svg);
       clear: left;
       text-align: center;
       font-size: 150%;
