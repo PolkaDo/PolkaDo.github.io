@@ -26,6 +26,7 @@
       margin: 0 auto;
    }
    body {
+      background: url(taustapolka.svg);
       font-family: 'lobster', cursive;
       margin: 0 0 0 0;
    }
@@ -78,7 +79,7 @@
    }
    article {
       height: 84vh;
-      background: url(taustapolka.svg);
+      background-color: #adebdc;
       color: #4b4235;
       font-size: 145%;
       padding: 20px;
