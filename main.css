@@ -63,8 +63,8 @@
       margin: 0;
       padding: 20px;
       background-color: #adebdc;
-      border-left: solid #adebdc 10px;
-      border-right: solid #adebdc 10px;
+      margin-left: 70px;
+      margin-right: 70px;
    }
    #nav li {
       display: inline;
