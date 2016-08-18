@@ -78,7 +78,7 @@
    }
    article {
       height: 84vh;
-      background-color: url(taustapolka.svg);
+      background: url(taustapolka.svg);
       color: #4b4235;
       font-size: 145%;
       padding: 20px;
