@@ -31,12 +31,9 @@
       width:100%;
    }
    header {
-      padding: 1px;
-      color: #4b4235;
       background-color: #adebdc;
       clear: left;
       text-align: center;
-      font-size: 150%;
    }
    footer {
       margin-bottom: 5%;
