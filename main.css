@@ -27,7 +27,8 @@
    }
    body {
       background: url(taustapolka.svg);
-      font-family: 'lobster', cursive;
+      font-family: 'Lobster', cursive;
+      font-family: 'Raleway', sans-serif;
       margin: 0 0 0 0;
    }
    div.container{
