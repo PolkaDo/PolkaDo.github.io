@@ -35,7 +35,7 @@
    header {
       padding: 5px;
       color: #4b4235;
-      background: url(taustap.svg);
+      background-color: #adebdc;
       clear: left;
       text-align: center;
       font-size: 150%;
@@ -78,7 +78,7 @@
    }
    article {
       height: 84vh;
-      background-color: #f9f2ec;
+      background-color: url(taustapolka.svg);
       color: #4b4235;
       font-size: 145%;
       padding: 20px;
